@@ -1,0 +1,7 @@
+import Vikingos.*
+
+test "punto1b" {
+	const ragnar = new Vikingo(castaSocial= jarl, cantArmas=0)
+	assert.that(true)
+
+}
